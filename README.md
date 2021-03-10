@@ -9,3 +9,5 @@ Please follow below steps to run the program,
 please follow below steps to test the program,
   $ python testConferenceApi.py
   
+Note that when you are prompted to type in argument, eg speaker name, timeslot etc., please use copy/paste rather than type in from keyboard, because the program doesn't handle typing mistake as yet.
+
